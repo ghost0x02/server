@@ -18,6 +18,15 @@ KULLANICI ADI VE ŞİFRE İSTEYECEK
 -KULLANICI ADI: admin
 -ŞİFRE: connect
 
+!NOT;
+-VERDİĞİM İP TEST İÇİN KULLANILAN BİR SUNUCU İP ADRESİDİR
+-KENDİ TCP SUNUCU İP ADRESİNİZDE TEST EDEBİLİRSİNİZ
+
+---KAYIT---
+YAPILAN İŞLEMLER data.log DOSYASINDA KAYIT OLMAKTADIR
+ERİŞMEK İÇİN "nano data.log" YAZMANIZ YETERLİ OLUCAKTIR
+--------------------------------------------------------
+
 ```
 
 
