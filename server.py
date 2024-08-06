@@ -5,7 +5,7 @@ import os
 import time
 from colorama import Fore, Style
 
-
+os.system("clear")
 print(Fore.RED + """
 
   ______ _____  _____ ____
